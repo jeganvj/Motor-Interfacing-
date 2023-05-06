@@ -87,10 +87,11 @@ int brakePin = 9;</br>
  delay(2000);</br>
 }</br>
 ## CIRCUIT DIAGRAM:
-![image](https://user-images.githubusercontent.com/132323363/235739034-418d95f1-30e9-453b-8ff4-455225915a9e.png)
+
+![M1 (2)](https://user-images.githubusercontent.com/132778872/236640613-9a3c396f-5236-4dc1-90ec-30c188ffaca0.jpeg)
 
 ## OUTPUT:
-![image](https://user-images.githubusercontent.com/132323363/235738959-3cd44624-4acd-462c-b298-3794e1ef7f6a.png)
+![M1 (2)](https://user-images.githubusercontent.com/132778872/236640617-6f9b3480-3be0-4627-8799-624d4e4e4fa0.jpeg)
 
 ## RESULT:
 Thus the motor was controlled using driver circuits, relays and Arduino UNO controller.
